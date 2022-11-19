@@ -1,6 +1,6 @@
 # Placing points with React
 
-Small exercise using React. You can click somewhere within the page to place points! Also, you can turn coordinates on/off and change the theme from dark to light and vice versa.
+Small exercise using React. You can click anywhere within the page to place points! Also, you can turn coordinates on/off and change the theme from dark to light and vice versa.
 
 ## 🚀 Start
 Install dependencies:
